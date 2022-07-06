@@ -26,8 +26,8 @@ Run on system autostart (optional) :
 
 Open script
 
-***Mute*** - "Shift" + "*"
+***Mute*** - `Shift` + `*`
 
-***Volume up*** - "Shift" + "+"
+***Volume up*** - `Shift` + `+`
 
-***Volume down*** - "Shift" + "-"
+***Volume down*** - `Shift` + `-`
