@@ -4,7 +4,6 @@ Autohotkey script to control sound with keyboard numpad
 
 ## Table of Contents
 
-- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 
